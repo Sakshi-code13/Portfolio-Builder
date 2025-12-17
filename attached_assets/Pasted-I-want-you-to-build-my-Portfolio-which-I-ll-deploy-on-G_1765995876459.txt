@@ -1,0 +1,37 @@
+I want you to build my Portfolio, which I'll deploy on GitHub Pages. I want my resume to be highly interactive (loaded with lots of animations & effects (not a normal boring site). I want to build it for mobile & web both compatible. Also, I want the following flow structure for my Portfolio:->
+
+About me (this should be the first scroll) -> here you will include all the intro part about me (it can be any hook line so that the user gets hooked for any resume), also I want my about section that it should have some concept making it obvious that I'm a DevOps Engineer, Cloud Engineer, Software Development Engineer(SDE), Site Reliability Engineer(SRE), Front-end developer. Also you can use any quotation of it relevant to our portfolio.
+
+Technical Skills -> first thing should be intro of this section, consisting of all sub-section's skill,projects,certifications) and in this section there should be 5 sub-sections, and all of them should be present in such a way that whenever a particular sub-section is being clicked, it should expand and show its contents of that particular sub-section only, and when user click back the currently opened sub-section should closed. -> make the sub-section opening and closing with full of loaded animations also for each sub-section there should be different animation.
+
+Those 5 sub-sections are :-> a) DevOps Engineer b) Cloud Engineer c) Software Development Engineer d) Site Reliability Engineer e) Front-end developer Now in every sub-section these should be there:-> a) Key Skill (only related to that field) b) Projects ( Featured for that field) c) Certifications & badges (Selected to that field only) d) Resume downloadable button (for that particular sub-section) e) Contact - Phone, Email, Whats app - for all the source of contact i want that in the phone field there should be a phone's icon and when user clicks on it, they should automatically redirected to their default calling app and there my number should be displayed, for the email field, i want that a gmail's icon should be there and whenever the user clicks on the email icon, they should automatically redirected to the email and there a new composed email should open and automatically in the to's section my email id should be displayed and in the subject - there should be written Hey Sakshi! I'm impressed with your portfolio and want to connect with you, and same for that whatsapp- there should be a whats's app icon displayed and whenever user clicks on the whatsapp icon they should redirected to their whatsapp with my phone number's chat open and the default message should be there like Hey Sakshi! I'm impressed with your portfolio, want to connect with you.
+
+Now, I want you to repeat all these for all the sub-sections
+
+Inter-personal Skills -> This section should be in the flash card type style & when user hovers on that particular flash-card with a single inter-personal skill that should turn & it should display the content that where I have used that particular inter-personal skill in recent times in real-life
+
+Education -> This field should cover my overall educations consisting of my current graduation which is B.E./B.Tech - Computer Scienc & Engineering (specialization in DevOps) - 2022-2026 - 8.21 CGPA 12th/Intermediate - KENDRIYA VIDYALAYA AIR FORCE STATION, THANE - CBSE Board - SCIENCE STREAM ( PHYSICS, CHEMISTRY, MATHEMATICS, BIOLOGY)-2021 - 90% 10th/Matriculation - KENDRIYA VIDYALAYA AIR FORCE STATION, THANE - CBSE Board -2018 - 77%
+
+Projects, Academic Study/Research Paper -> in this section first thing should be the intro which should consist of all the projects which I have done till far, there again there should be sub-sections in flash card style whenever the user hovers on the particular flash card it should show features of the project and type of project
+
+Coding Profiles -> under this section a little dashboard view of all the coding platforms will be shown & by clicking on it they user should get redirected to that original coding platform's my actual coding profile dashboard. The coding platforms will be leetcode, hackerrank, codechef, geeksforgeeks
+
+Certifications & Badges -> in this section there should be photo, link, id of the certificates which i have and badge photo and link for my earned badge
+
+Resume download button -> when clicked it hsould provide options like - DevOps Engineer, Cloud Engineer, SDE, SRE, Front-end Developer, the selected resume should only get downloaded on the user's pc
+
+Contacts -> in this section, there should be 5 options through which they can communicate me : -> a) Phone - it should present with the phone's icon, on getting clicked it should automatically redirects user to their default calling application in which my number enetered on the dialpad b) Whatsapp - it should present with the whatsapp's icon, on getting clicked it should automatically redirecting them in to the whatsapp's application my profile's chat in which a default message is printed on the screen stating "Hey Sakshi! I'm impressed with your portfolio. want to connect with you" c) Email - it should present with the email icon, on getting clicked it should automatically redirects them in to the email with a default composed email opened up and in the to's section my email id - sakshi132728@gmail.com should be added, in the subject field - this should be written - Want to connect with you, and in the body of email this should be entered as a default email - Hey Sakshi! I'm impressed with your Portfolio. I want to connect with you. d) Linkedin - it should present with the linkedin's icon, on getting clicked it should redirect the user to the linkedin platform with my profile opened there e) GitHub - it should present with the github's icon, on getting clicked it should redirect the user to the github platform with my profile opened there b) Whatsapp - it should present with the whatsapp icon, on getting clicked it should automatically redirects them to the whatsapp application in which my profile
+
+I'm attaching the pic of mine. and some of my resume from which you can extract the contents, for my portfolio
+
+My Linkedin Profile : https://www.linkedin.com/in/-sakshi-jha-/
+
+My GitHub Profile : https://github.com/Sakshi-code13
+
+My Leetcode Profile : https://leetcode.com/u/Sakshiii___/
+
+My HackerRank Profile : https://www.hackerrank.com/profile/sakshi132728
+
+My CodeChef Profile : https://www.codechef.com/users/sakshi_here
+
+My GeekforGeeks profile : https://www.geeksforgeeks.org/profile/sakshihere
