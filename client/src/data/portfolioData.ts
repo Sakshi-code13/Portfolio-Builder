@@ -377,7 +377,7 @@ export const certifications = [
     credentialId: "100729138OCI2024GAIOCP",
     image: "/certificates/oracle-cert.png",
     badge: "/certificates/oracle-badge.jpg",
-    verifyUrl: "#"
+    
   },
   {
     name: "Microsoft Certified: Azure Fundamentals",
@@ -386,13 +386,7 @@ export const certifications = [
     credentialId: "1EBD09DE25347A90",
     certificationNumber: "29FT33-4CD4A9",
     image: "/certificates/microsoft-cert.png",
-    verifyUrl: "#"
   }
-];
-
-export const achievements = [
-  { title: "Runner-up @ GFG Hackathon", icon: "Trophy" },
-  { title: "Silver Medal in Technical Poster Presentation", icon: "Award" }
 ];
 
 export const languages = ["English", "Hindi", "Maithili"];
