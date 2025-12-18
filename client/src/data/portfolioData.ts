@@ -27,9 +27,10 @@ export const technicalSkillsData = {
     icon: "Server",
     color: "from-blue-500 to-cyan-500",
     skills: [
-      "Docker", "Kubernetes", "Jenkins", "GitHub Actions", "GitLab CI/CD",
+      "AWS (EC2, S3, Lambda, VPC)", "Azure (Monitor, DevOps)", "GCP", "Docker", "Kubernetes", "Jenkins", "GitHub Actions", "GitLab CI/CD",
       "Terraform", "Ansible", "Prometheus", "Grafana", "ELK Stack",
-      "Python", "Bash Scripting", "Linux (RHEL, Ubuntu)", "Shell Scripting"
+      "Python", "Bash Scripting", "PowerShell", "Linux (RHEL, Ubuntu)", "Shell Scripting", "Version Control Systems (Git)", "Continuous Integration", "Root Cause Analysis", "Troubleshooting",
+      "Pipeline Management"
     ],
     projects: [
       {
