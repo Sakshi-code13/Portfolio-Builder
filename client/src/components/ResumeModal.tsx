@@ -14,7 +14,7 @@ import { cn } from "@/lib/utils";
 const resumeOptions = [
   {
     role: "DevOps Engineer",
-    file: "DevOps_Engineer.pdf",
+    file: "Sakshi_DevOps_Engineer.pdf",
     icon: Server,
     color: "from-blue-500 to-cyan-500",
     description: "CI/CD, Docker, Kubernetes, IaC"
