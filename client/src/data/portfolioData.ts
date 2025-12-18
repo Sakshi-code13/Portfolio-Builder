@@ -175,7 +175,7 @@ export const technicalSkillsData = {
       { name: "Oracle Cloud Infrastructure GenAI Professional", year: "2024" },
       { name: "Microsoft Azure Fundamentals", year: "2023" }
     ],
-    resumeFile: "SDE.pdf"
+    resumeFile: "Sakshi_Site_Reliability_Engineer.pdf"
   }
 };
 
