@@ -42,7 +42,7 @@ const resumeOptions = [
   },
   {
     role: "Frontend Developer",
-    file: "SDE.pdf",
+    file: "Sakshi_Frontend_Developer.pdf",
     icon: Layout,
     color: "from-indigo-500 to-violet-500",
     description: "React, CSS, UI/UX, Responsive"
