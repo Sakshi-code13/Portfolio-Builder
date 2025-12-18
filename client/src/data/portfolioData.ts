@@ -153,9 +153,10 @@ export const technicalSkillsData = {
     icon: "Layout",
     color: "from-indigo-500 to-violet-500",
     skills: [
-      "React.js", "HTML5", "CSS3", "JavaScript (ES6+)",
-      "Responsive Design", "UI/UX Design", "Tailwind CSS",
-      "Web Accessibility", "Performance Optimization"
+      "JavaScript (ES6+)" , "HTML5" , "CSS3", "React.js", "Redux", "Context API",
+      "Responsive Design", "Figma (UI/UX)", "CSS Grid/Flexbox", "Bootstrap",
+      "Lighthouse Testing", "Web Vitals", "Asset Optimization", "SEO",
+      "Git", "GitHub", "VS Code", "Docker", "Chrome DevTools", "NGINX"
     ],
     projects: [
       {
@@ -175,7 +176,7 @@ export const technicalSkillsData = {
       { name: "Oracle Cloud Infrastructure GenAI Professional", year: "2024" },
       { name: "Microsoft Azure Fundamentals", year: "2023" }
     ],
-    resumeFile: "Sakshi_Site_Reliability_Engineer.pdf"
+    resumeFile: "Sakshi_Frontend_Developer.pdf"
   }
 };
 
