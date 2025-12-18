@@ -89,9 +89,9 @@ export const technicalSkillsData = {
     icon: "Code",
     color: "from-green-500 to-emerald-500",
     skills: [
-      "C++", "C", "JavaScript (ES6+)", "Python", "React.js",
-      "HTML5", "CSS3", "Node.js", "RESTful APIs", "MySQL", "MongoDB",
-      "Data Structures & Algorithms", "Git", "VS Code"
+      "C++", "C", "JavaScript (ES6+)", "Python", "Bash Scripting", "React.js",
+      "HTML5", "CSS3", "Node.js", "JSON", "RESTful APIs", "MySQL", "MongoDB",
+      "Data Structures & Algorithms(DSA)", "Git", "Docker", "Jenkins", "AWS (EC2, S3)", "Linux", "VS Code"
     ],
     projects: [
       {
@@ -117,7 +117,7 @@ export const technicalSkillsData = {
       { name: "Oracle Cloud Infrastructure GenAI Professional", year: "2024" },
       { name: "Microsoft Azure Fundamentals", year: "2023" }
     ],
-    resumeFile: "SDE.pdf"
+    resumeFile: "Sakshi_Software_Developer.pdf"
   },
   sre: {
     title: "Site Reliability Engineer",
