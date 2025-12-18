@@ -57,9 +57,12 @@ export const technicalSkillsData = {
     icon: "Cloud",
     color: "from-purple-500 to-pink-500",
     skills: [
-      "AWS (EC2, S3, Lambda, VPC)", "Azure (Monitor, DevOps)", "GCP",
-      "Cloud Infrastructure", "Serverless Computing", "CloudFormation",
-      "Terraform (IaC)", "Cost Optimization", "Cloud Security"
+      "Amazon Web Services (AWS)", "Microsoft Azure", "Google Cloud Platform (GCP)",
+      "Jenkins", "GitHub Actions", "Azure DevOps", "Docker", "Kubernetes", "Git",
+      "Terraform", "CloudFormation", "Ansible", "Python", "Bash Scripting",
+      "RDS", "DynamoDB", "S3", "Blob Storage", "Cloud Database Management",
+      "CloudWatch", "Prometheus", "Grafana", "Azure Monitor",
+      "IAM Policy Enforcement", "Linux/Windows Admin", "Security Groups", "VPC"
     ],
     projects: [
       {
@@ -79,7 +82,7 @@ export const technicalSkillsData = {
       { name: "Oracle Cloud Infrastructure GenAI Professional", year: "2024" },
       { name: "Microsoft Azure Fundamentals", year: "2023" }
     ],
-    resumeFile: "Cloud_Engineer.pdf"
+    resumeFile: "Sakshi_Cloud_Engineer.pdf"
   },
   sde: {
     title: "Software Development Engineer",
