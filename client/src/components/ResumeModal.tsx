@@ -35,7 +35,7 @@ const resumeOptions = [
   },
   {
     role: "Site Reliability Engineer",
-    file: "SDE.pdf",
+    file: "Sakshi_Site_Reliability_Engineer.pdf",
     icon: Activity,
     color: "from-orange-500 to-red-500",
     description: "Monitoring, SLOs, Reliability"
