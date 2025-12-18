@@ -107,22 +107,7 @@ export function CertificationsSection() {
                     )}
                   </div>
 
-                  <Button
-                    variant="outline"
-                    size="sm"
-                    className="mt-2"
-                    asChild
-                  >
-                    <a
-                      href={cert.verifyUrl}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      data-testid={`button-verify-${cert.issuer.toLowerCase()}`}
-                    >
-                      <ExternalLink className="w-4 h-4 mr-2" />
-                      Verify Credential
-                    </a>
-                  </Button>
+                  
                 </div>
               </div>
             </Card>
