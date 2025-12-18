@@ -50,7 +50,7 @@ export const technicalSkillsData = {
       { name: "Oracle Cloud Infrastructure GenAI Professional", year: "2024" },
       { name: "Microsoft Azure Fundamentals", year: "2023" }
     ],
-    resumeFile: "DevOps_Engineer.pdf"
+    resumeFile: "Sakshi_DevOps_Engineer.pdf"
   },
   cloud: {
     title: "Cloud Engineer",
