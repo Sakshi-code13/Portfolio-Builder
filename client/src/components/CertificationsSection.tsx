@@ -114,36 +114,7 @@ export function CertificationsSection() {
           ))}
         </div>
 
-        <div
-          className={cn(
-            "transition-all duration-700",
-            isInView ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
-          )}
-          style={{ transitionDelay: "300ms" }}
-        >
-          <h3 className="text-xl font-semibold text-center mb-6">
-            <span className="flex items-center justify-center gap-2">
-              <Trophy className="w-5 h-5 text-amber-500" />
-              Achievements
-            </span>
-          </h3>
-          <div className="flex flex-wrap justify-center gap-4">
-            {achievements.map((achievement) => (
-              <Card
-                key={achievement.title}
-                className="px-6 py-4 flex items-center gap-3"
-                data-testid={`card-achievement-${achievement.title.toLowerCase().replace(/\s+/g, "-").slice(0, 20)}`}
-              >
-                {achievement.icon === "Trophy" ? (
-                  <Trophy className="w-6 h-6 text-amber-500" />
-                ) : (
-                  <Medal className="w-6 h-6 text-gray-400" />
-                )}
-                <span className="font-medium">{achievement.title}</span>
-              </Card>
-            ))}
-          </div>
-        </div>
+        
       </div>
     </section>
   );
