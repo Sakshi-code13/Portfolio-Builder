@@ -21,7 +21,7 @@ const resumeOptions = [
   },
   {
     role: "Cloud Engineer",
-    file: "Cloud_Engineer.pdf",
+    file: "Sakshi_Cloud_Engineer.pdf",
     icon: Cloud,
     color: "from-purple-500 to-pink-500",
     description: "AWS, Azure, Cloud Infrastructure"
