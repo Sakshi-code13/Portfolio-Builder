@@ -28,7 +28,7 @@ const resumeOptions = [
   },
   {
     role: "Software Developer",
-    file: "SDE.pdf",
+    file: "Sakshi_Software_Developer.pdf",
     icon: Code,
     color: "from-green-500 to-emerald-500",
     description: "React, Node.js, Full Stack"
